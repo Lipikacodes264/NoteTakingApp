@@ -1,0 +1,1 @@
+Welcome to the Note Taking App! This project is designed to help users create, organize, and manage their notes efficiently. With a simple and intuitive interface, users can add, edit, delete, and search notes with ease.
